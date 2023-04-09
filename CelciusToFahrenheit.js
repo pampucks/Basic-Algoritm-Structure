@@ -4,7 +4,7 @@ function convertCtoF(celsius) {
 }
 
 // Change the inputs below to test your code
-console.log(convertCtoF(-30));
+gconsole.log(convertCtoF(-30));
 console.log(convertCtoF(-10));
 console.log(convertCtoF(0));
 console.log(convertCtoF(20));
