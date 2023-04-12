@@ -15,7 +15,3 @@ function reverseString(str) {
 console.log(reverseString("hello"));
 console.log(reverseString("Howdy"));
 console.log(reverseString("Greetings from Earth"));
-
-// reverseString("hello") should return the string olleh.
-// reverseString("Howdy") should return the string ydwoH.
-// reverseString("Greetings from Earth") should return the string htraE morf sgniteerG.
